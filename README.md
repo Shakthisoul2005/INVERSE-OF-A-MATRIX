@@ -16,7 +16,8 @@ To write a python program to find the inverse of a matrix
     inverse=np.linalg.inv(matrix)
     print(inverse)
 ## Output:
-![image 1]](<Screenshot 2024-11-18 160626.png>)
+![Screenshot 2024-11-18 160626](https://github.com/user-attachments/assets/da38c021-45bf-43c1-8755-1ae08aad87b5)
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
